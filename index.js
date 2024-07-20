@@ -6,3 +6,4 @@ elementosDuvida.forEach((duvida) => {
     duvida.classList.toggle("ativa");
   });
 });
+

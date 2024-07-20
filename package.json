@@ -1,0 +1,16 @@
+{
+  "name": "pet-life-project",
+  "version": "1.0.0",
+  "description": "Projeto de uma loja de pet em desenvolvimento.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
